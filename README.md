@@ -1,5 +1,7 @@
 # uGoph - gopher client for ZX-Uno(and possible other zx-spectrums)
 
+PROJECT NOW IS A PART OF [ZX-Uno project](https://github.com/antoniovillena/zxuno).
+
 ## Requirements
 
 For running you need:
